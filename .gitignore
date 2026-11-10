@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Local ACLED workbooks
+/Acled_Stat250.xlsx
+/Acled_Stat250_final_cleaned_2016_2023.xlsx
